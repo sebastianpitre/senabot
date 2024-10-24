@@ -158,7 +158,7 @@
                 </table>
             </div>
             <div class="mx-auto">
-            <a class="btn btn-sm btn-success" href="informes/GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" download="GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" >
+            <a class="btn btn-sm btn-success" href="informes/GFPI-F-023-V5.xlsx" download="informes/GFPI-F-023-V5.xlsx" >
                 <span class="material-symbols-outlined">
                     <span class="material-symbols-outlined pr-2">file_save</span>
                 </span> 
@@ -287,7 +287,7 @@
         </div>
     </div>
 
-    <p class="mt-5 mb-3 text-center text-muted">Created ❤️ By Sebastián & Jhonatan <br> &copy; Versión 2.0</p> 
+    <p class="mt-5 mb-3 text-center text-muted">Created ❤️ By Sebastián Pitre & Jhonatan Camelo <br> &copy; Versión 2.0</p> 
     <!-- script -->
     <script type="application/javascript">
         $(document).ready( function () {

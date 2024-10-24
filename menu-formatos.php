@@ -61,7 +61,7 @@ include "include.php"
                     <p>
                         Aprende a diligenciar los formatos F023
                     </p>
-                    <a href="f023-01.php">
+                    <a href="f023-01.html">
                       <button type="button" class="btn btn-success btn-sm mb-0">Ver tutorial</button>
                     </a>
                     
@@ -84,7 +84,7 @@ include "include.php"
                     <p>
                         Aprende a diligenciar los formatos F023
                     </p>
-                    <a href="f023-02.php">
+                    <a href="f023-02.html">
                       <button type="button" class="btn btn-success btn-sm mb-0">Ver tutorial</button>
                     </a>
                 </div>
@@ -106,7 +106,7 @@ include "include.php"
                     <p>
                         Aprende a diligenciar los formatos F023
                     </p>
-                    <a href="f023-03.php">
+                    <a href="f023-03.html">
                       <button type="button" class="btn btn-success btn-sm mb-0">Ver tutorial</button>
                     </a>
                 </div>
@@ -128,7 +128,7 @@ include "include.php"
                     <p>
                         Aprende a diligenciar el formatos F147 
                     </p>
-                    <a href="bitacora.php">
+                    <a href="bitacora.html">
                       <button type="button" class="btn btn-success btn-sm mb-0">Ver tutorial</button>
                     </a>
                 </div>
@@ -212,7 +212,7 @@ include "include.php"
         </div>
     </section>
     
-    <p class="mt-5 mb-3 text-center text-muted">Created ❤️ By Sebastián & Jhonatan <br> &copy; Versión 2.0</p> 
+    <p class="mt-5 mb-3 text-center text-muted">Created ❤️ By Sebastián Pitre & Jhonatan Camelo <br> &copy; Versión 2.0</p> 
     
     
 

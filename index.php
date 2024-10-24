@@ -254,7 +254,7 @@ include "include.php"
     </section>
 
     
-     <p class="mt-5 mb-3 text-center text-muted">Created ❤️ By Sebastián & Jhonatan <br> &copy; Versión 2.0</p> 
+     <p class="mt-5 mb-3 text-center text-muted">Created ❤️ By Sebastián Pitre & Jhonatan Camelo <br> &copy; Versión 2.0</p> 
     
 
     <script src="js/jquery-3.3.1.min.js"></script>

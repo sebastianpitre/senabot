@@ -22,7 +22,7 @@ include "include.php"
 <div class="cards">
 	<!-- Card 1 -->
 	<article class="plan [ card ] information [ card ]">
-		<a class="tag" href="informes/GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" download="GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" > Descargar</a>
+		<a class="tag" href="informes/GFPI-F-023-V5.xlsx" download="informes/GFPI-F-023-V5.xlsx" > Descargar</a>
 		<div class="inner">
 			<img src="imagenes/project/concertacion.png" alt="">
 			<h2 class="title">Formato 023 Concertación</h2>
@@ -56,7 +56,7 @@ include "include.php"
 					<span><strong>Entrega</strong> </span>
 				</li>
 			</ul>
-			<a class="button" href="informes/GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" download="GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" > Descargar
+			<a class="button" href="informes/GFPI-F-023-V5.xlsx" download="GFPI-F-023-V5.xlsx" > Descargar
 				<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
 					<path d="M0 0h24v24H0V0z" fill="none" />
 					<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
@@ -68,7 +68,7 @@ include "include.php"
 	<!-- Card 2 -->
 
 	<article class="plan [ card ] information [ card ]">
-		<a class="tag" href="informes/GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" download="GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" > Descargar</a>
+		<a class="tag" href="informes/GFPI-F-023-V5.xlsx" download="GFPI-F-023-V5.xlsx" > Descargar</a>
 		<div class="inner">
 			<img src="imagenes/project/parcial.png" alt="">
 			<h2 class="title">Formato 023 Parcial</h2>
@@ -102,7 +102,7 @@ include "include.php"
 					<span><strong>Entrega</strong> </span>
 				</li>
 			</ul>
-			<a class="button" href="informes/GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" download="GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" > Descargar
+			<a class="button" href="informes/GFPI-F-023-V5.xlsx" download="GFPI-F-023-V5.xlsx" > Descargar
 				<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
 					<path d="M0 0h24v24H0V0z" fill="none" />
 					<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
@@ -114,7 +114,7 @@ include "include.php"
 	<!-- Card 3 -->
 
 	<article class="plan [ card ] information [ card ]">
-		<a class="tag" href="informes/GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" download="GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" > Descargar</a>
+		<a class="tag" href="informes/GFPI-F-023-V5.xlsx" download="GFPI-F-023-V5.xlsx" > Descargar</a>
 		<div class="inner">
 
 			<img src="imagenes/project/final.png" alt="">
@@ -150,7 +150,7 @@ include "include.php"
 					<span><strong>Entrega</strong> </span>
 				</li>
 			</ul>
-			<a class="button" href="informes/GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" download="GFPI-F-023_Formato_Planeacion_seguimiento_y_evaluacion_etapa_productiva.docx" > Descargar
+			<a class="button" href="informes/GFPI-F-023-V5.xlsx" download="GFPI-F-023-V5.xlsx" > Descargar
 				<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="none">
 					<path d="M0 0h24v24H0V0z" fill="none" />
 					<path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4v3z" fill="currentColor" />
