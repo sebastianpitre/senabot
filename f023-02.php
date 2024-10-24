@@ -115,10 +115,10 @@
       <div class="menu card px-3">
         <div class="row">
           <a class="btn mx-1 my-2 text-white bg-danger col-auto" href="menu-formatos.php" style="height: 37px;">
-              <span class="material-symbols-outlined text-white">undo </span><h4 class="float-right mt-1" style="font-size: 13px;">Volver</h4>
+          <img class="mt-n1" src="imagenes/undraw/volver.svg" alt=""><h4 class="float-right mt-1" style="font-size: 13px;">Volver</h4>
           </a>
           <a class="btn mx-1 my-2 text-white col-auto" href="informes/GFPI-F-023-V5.xlsx" style="background-color: #00304D;height: 37px;">
-            <span class="material-symbols-outlined text-white">download </span><h4 class="float-right mt-1" style="font-size: 13px;">Descargar F023</h4>
+          <img class="mt-n1" src="imagenes/undraw/download.svg" alt=""><h4 class="float-right mt-1" style="font-size: 13px;">Descargar F023</h4>
           </a>
           <div class="btn bg-success mx-1 my-2 col-auto" style="height: 37px;" onclick="intro_calcular()"><i class="fas fa-play text-white mx-auto mt-1" aria-hidden="true"></i></div>
         </div>

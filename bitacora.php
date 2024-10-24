@@ -53,6 +53,16 @@ https://www.tooplate.com/view/2115-marvel
         margin: auto;
       }
 
+      .menu{
+      position: fixed;
+      bottom: 7px;
+      left: 50%;
+      transform: translate(-50%);
+      z-index: 998;
+      width: auto;
+      min-width: 288px;
+    }
+
       .pasos{
         position: absolute; 
         z-index: 9;
@@ -112,22 +122,17 @@ https://www.tooplate.com/view/2115-marvel
     <!-- CARD -->
     <section  class="mb-4 bg-gray-200" >
 
-    <a href="menu-formatos.php">
-        <div type="button" class="btn btn-success btn-sm pt-2" style="position: fixed; top: 150px; left: 20px; z-index: 9999;">
-          <span class="material-symbols-outlined text-white">undo </span><h4 class="float-right mt-1" style="font-size: 13px;">Volver</h4></div>
-      </a>
-
-      <!-- ⭐⭐ - sug_click - ⭐⭐ 
-      <div id="mensaje_click" style="bottom: -64px; left: 120px;position: fixed;transform: translate(-50%, -50%);z-index: 9999;" >
-        <img src="imagenes/undraw/click-mouse.gif" alt="Imagen" width="80px" style="rotate: -55deg;">
-        
+      <div class="menu card px-3">
+        <div class="row">
+          <a class="btn mx-1 my-2 text-white bg-danger col-auto" href="menu-formatos.php" style="height: 37px;">
+          <img class="mt-n1" src="imagenes/undraw/volver.svg" alt=""><h4 class="float-right mt-1" style="font-size: 13px;">Volver</h4>
+          </a>
+          <a class="btn mx-1 my-2 text-white col-auto" href="informes/GFPI-F-147_Formato_bitácora_etapa_productiva - V3.xlsx" style="background-color: #00304D;height: 37px;">
+          <img class="mt-n1" src="imagenes/undraw/download.svg" alt=""><h4 class="float-right mt-1" style="font-size: 13px;">Descargar bitácora</h4>
+          </a>
+          <div class="btn bg-success mx-1 my-2 col-auto" style="height: 37px;" onclick="intro_calcular()"><i class="fas fa-play text-white mx-auto mt-1" aria-hidden="true"></i></div>
         </div>
-      ⭐⭐ - / sug_click - ⭐⭐  -->
-
-      
-      <!-- <div id="popup" class="" style="position: fixed; bottom: 70px; left: 40px; z-index: 9999;"><img src="imagenes/undraw/letrero.png" width="80px" alt=""></div> -->
-
-      <button class="btn bg-success pt-0 btn-xxl" data-bs-toggle="tooltip" data-bs-placement="left"  aria-label="Instrucciones de uso" data-bs-original-title="Iniciar recorrido" style="position: fixed; width: 60px; height: 60px; bottom: 10px; left: 10px; border: 2px solid white; border-radius: 50%; z-index: 9999;" onclick="intro_calcular()" ><i class="fas fa-play mt-2 pt-1 text-white mx-auto" aria-hidden="true"></i></button>  
+      </div>
 
       <div class="mt-5">
 
